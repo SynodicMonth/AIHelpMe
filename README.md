@@ -11,7 +11,8 @@ Collect useful AI tools that makes lives easier
 | Name | Link | Description | Open Source? | Extra |
 | :--: | :--: | :--: | :--: | :--: |
 | ChatGPT | [Website](chat.openai.com) | AI Chat and Q&A  | ❌ | Register required |
-
+| ERNIET | [Website](https://wenxin.baidu.com/ernie3) | AI Text Generation  | ❌ | Sometimes not working |
+| 秘塔写作猫 | [Website](https://xiezuocat.com/#/) | AI Writing | ❌ | Paid, Register required |
 ## Miscellaneous
 
 | Name | Link | Description | Open Source? | Extra |
