@@ -13,6 +13,10 @@ Collect useful AI tools that makes lives easier
 | :--: | :--: | :--: | :--: | :--: |
 | 网易见外 | [Website](https://jianwai.youdao.com/) | Chinese Speech Recognition | ❌ | Register required |
 | Diffsinger | [Github](https://github.com/MoonInTheRiver/DiffSinger) | AI Singing Generation | ✅ | no ui, only commandline |
+| diff-svc | [Github](https://github.com/prophesier/diff-SVC) | Singing Voice Conversion via diffusion model | ✅ | no ui, only commandline |
+| Adobe Podcast | [Website](https://podcast.adobe.com/) | AI Speech Enhancement | ❌ | Register required |
+| voice.ai | [Website](https://voice.ai/) | Real-Time AI Voice Changer | ❌ | Beta version |
+| Ultimate Vocal Remover | [Github](https://github.com/Anjok07/ultimatevocalremovergui) | AI Vocal Remover | ✅ | GUI version |
 
 ## Natural Language
 | Name | Link | Description | Open Source? | Extra |
@@ -32,3 +36,4 @@ Collect useful AI tools that makes lives easier
 | Name | Link | Description | Open Source? | Extra |
 | :--: | :--: | :--: | :--: | :--: |
 | 众神之谷(Kamiya) | [Website](https://kamiya.dev) | A list of different tools | ❌ | Paid, Register required |
+| NVIDIA Boardcast | [Website](https://www.nvidia.cn/geforce/broadcasting/broadcast-app/) | AI Boardcast Enhancement toolset | ❌ | RTX required |
