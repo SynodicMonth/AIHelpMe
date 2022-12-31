@@ -6,6 +6,7 @@ Collect useful AI tools that makes lives easier
 | :--: | :--: | :--: | :--: | :--: |
 | Stable-diffusion-webui | [Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | WebUI for Stable-diffusion models | ✅ | Only ui, no model |
 | Artbreeder | [Website](https://www.artbreeder.com/) | AI Art Generator | ❌ | Register required |
+| DALL·E 2 | [Website](https://openai.com/dall-e-2/) | AI Art Generator | ❌ | Register required |
 
 ## Natural Language Processing
 | Name | Link | Description | Open Source? | Extra |
