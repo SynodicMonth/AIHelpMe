@@ -11,7 +11,7 @@ Collect useful AI tools that makes lives easier
 ## Video
 | Name | Link | Description | Open Source? | Extra |
 | :--: | :--: | :--: | :--: | :--: |
-| Deepfake | [Website](https://deepfake.org/) | AI Video Generation | ❌ | Register required |
+| DeepFaceLab | [Github](https://github.com/iperov/DeepFaceLab) | AI Face Swap | ✅ |  |
 | Make-A-Video | [Website](https://makeavideo.studio/) | AI Video Generation | ✅ | with research paper |
 
 ## Speech
