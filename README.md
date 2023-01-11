@@ -8,6 +8,12 @@ Collect useful AI tools that makes lives easier
 | Artbreeder | [Website](https://www.artbreeder.com/) | AI Art Generator | ❌ | Register required |
 | DALL·E 2 | [Website](https://openai.com/dall-e-2/) | AI Art Generator | ❌ | Register required |
 
+## Video
+| Name | Link | Description | Open Source? | Extra |
+| :--: | :--: | :--: | :--: | :--: |
+| Deepfake | [Website](https://deepfake.org/) | AI Video Generation | ❌ | Register required |
+| Make-A-Video | [Website](https://makeavideo.studio/) | AI Video Generation | ✅ | with research paper |
+
 ## Speech
 | Name | Link | Description | Open Source? | Extra |
 | :--: | :--: | :--: | :--: | :--: |
@@ -17,6 +23,8 @@ Collect useful AI tools that makes lives easier
 | Adobe Podcast | [Website](https://podcast.adobe.com/) | AI Speech Enhancement | ❌ | Register required |
 | voice.ai | [Website](https://voice.ai/) | Real-Time AI Voice Changer | ❌ | Beta version |
 | Ultimate Vocal Remover | [Github](https://github.com/Anjok07/ultimatevocalremovergui) | AI Vocal Remover | ✅ | GUI version |
+| yuanshenai | [Website](https://yuanshenai.com/) | Genshin Impact Voice TTS | ❌ | fancy webui |
+
 
 ## Natural Language
 | Name | Link | Description | Open Source? | Extra |
@@ -37,3 +45,4 @@ Collect useful AI tools that makes lives easier
 | :--: | :--: | :--: | :--: | :--: |
 | 众神之谷(Kamiya) | [Website](https://kamiya.dev) | A list of different tools | ❌ | Paid, Register required |
 | NVIDIA Boardcast | [Website](https://www.nvidia.cn/geforce/broadcasting/broadcast-app/) | AI Boardcast Enhancement toolset | ❌ | RTX required |
+| MikuTools | [Website](https://okmiku.com/) | A list of different tools | ❌ | subscription plan offered |
